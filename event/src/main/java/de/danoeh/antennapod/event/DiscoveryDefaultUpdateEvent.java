@@ -4,4 +4,3 @@ public class DiscoveryDefaultUpdateEvent {
     public DiscoveryDefaultUpdateEvent() {
     }
 }
-//asdasz
